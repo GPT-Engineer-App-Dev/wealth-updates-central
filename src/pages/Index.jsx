@@ -87,7 +87,7 @@ const LatestNews = () => (
 
 const Index = () => {
   return (
-    <Box>
+    <Box bg="#f3f2ee">
       <Header />
       <Container maxW="container.xl" py={10}>
         <FeaturedArticles />
